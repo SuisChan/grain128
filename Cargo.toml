@@ -1,0 +1,13 @@
+[package]
+name = "grain128"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+authors = ["suis"]
+description = "Implementation of stream cipher grain-128"
+repository = "https://github.com/SuisChan/grain128"
+
+[dependencies]
+
+[dev-dependencies]
+hex-literal = "0.3.4"
